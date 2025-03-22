@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-first-10-square-root-of-natural-numbers
